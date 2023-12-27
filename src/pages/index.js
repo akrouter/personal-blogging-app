@@ -8,6 +8,9 @@ export default function Home() {
   return (
     <div className="w-full h-[100%] bg-gray-100 pl-[60px] pt-[30px] font-bold text-2xl">
       <div>
+    <p>
+      this is first website
+    </p>
         <GreetingRender />
       </div>
       <div>
